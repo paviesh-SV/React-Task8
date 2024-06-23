@@ -1,0 +1,129 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 15",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "./images/iPhone_15.png",
+            "images": [
+                "./images/iPhone_15.png"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "iPhone 14",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 899,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "./images/iPhone_14.png",
+            "images": [
+                "./images/iPhone_14.png"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "iphone 15 PRO",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 1249,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Iphone",
+            "category": "smartphones",
+            "thumbnail": "./images/iPhone_15_Pro.png",
+            "images": [
+                "./images/iPhone_15_Pro.png"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Ipad Air",
+            "description": "Latest Ipad Air",
+            "price": 280,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "Apple",
+            "category": "Ipad",
+            "thumbnail": "./images/iPad_Air.png",
+            "images": [
+                "./images/iPad_Air.png"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Apple Watch",
+            "description": "Latest Apple Watch",
+            "price": 499,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "Watch",
+            "thumbnail": "./images/Apple_Watch.png",
+            "images": [
+                "./images/Apple_Watch.png"
+            ]
+        },
+
+        {
+            "id": 6,
+            "title": "iMac",
+            "description": "Latest Apple display",
+            "price": 399,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "Laptop",
+            "thumbnail": "./images/iMac.png",
+            "images": [
+                "./images/iMac.png"
+            ]
+        },
+
+        {
+            "id": 7,
+            "title": "Air Pods PRO 2",
+            "description": "Latest Magic mouse",
+            "price": 199,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "Earphones",
+            "thumbnail": "./images/Airpods_Pro_2.png",
+            "images": [
+                "./images/Airpods_Pro_2.png"
+            ]
+        },
+
+        {
+            "id": 8,
+            "title": "MacBook Air",
+            "description": "Limited Edition Apple Watch",
+            "price": 599,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "Laptop",
+            "thumbnail": "./images/MacBook_Air.png",
+            "images": [
+                "./images/MacBook_Air.png"
+            ]
+        }
+
+        
+    ]
+}
